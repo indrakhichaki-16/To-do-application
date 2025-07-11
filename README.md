@@ -24,6 +24,7 @@ npm run dev
 The application will be available at `http://localhost:5173` by default.
 
 ## Project Structure
+```
 src/
 ─ assets/         # Contains images and icons
 ─ App.jsx         # Main application component
@@ -32,6 +33,7 @@ src/
 ─ ToDoItem.jsx    # Component for individual todo items
 ─ main.jsx        # Application entry point
 ─ index.css       # Global styles
+```
 
 ## Technologies Used
 - React
